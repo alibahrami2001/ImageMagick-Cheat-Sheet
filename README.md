@@ -1,5 +1,5 @@
 # ImageMagick Cheat Sheet
-
+ <img src="[https://github.com/sh4de-c4t/sh4de-c4t/blob/main/KLONDAK%20-FINAL.gif](https://github.com/sh4de-c4t/ImageMagick-Cheat-Sheet/blob/main/imagemagick%20cheat-sheet.png)" width="400px" />
 ### Create thumbnail:
 
 ```
